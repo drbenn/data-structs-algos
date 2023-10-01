@@ -18,3 +18,12 @@
 - So also no push or pop, etc on arrays. YOU MUST REALLOCATE.
 
 - **Anytime you access the known value of an array it is O[1] because you know exactly where to go.**
+
+
+# Bubble Sort
+
+- basic math truism used in bubble sort is x<sub>i</sub> <= x<sub>i</sub> + 1
+
+- Basically, bubble sort works by iterating through array, and if i + 1 is less than i, the two values swithc indexes.
+
+- Another way to think about it is, as you iterate through the array, the largest value of the two values being compared is moved the to highest index.
