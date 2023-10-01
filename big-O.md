@@ -37,7 +37,7 @@ O(2n) would be running two for loops one after the other. **NOT NESTED** (nested
 
 - O(n log n) - quicksort algorithm.
 
-- O(log n) - binary serach trees algorithm.
+- O(log n) - binary serach trees algorithm.(input halves at each iteration)
 
 
 
@@ -47,5 +47,9 @@ O(2n) would be running two for loops one after the other. **NOT NESTED** (nested
 
 
 
-[md documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[md documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
+
+
 [emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+** CONSOLE.LOG TO TOP - STOP TOP OPTION of import log... "editor.snippetSuggestions": "top"**

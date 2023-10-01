@@ -25,14 +25,7 @@ a16[2] = 0x45;
 console.log("7. ",a)
 
 
-
-
-
-
 console.log("------------------------------");
-
-
-
 
 console.log("1. ",a)
 console.log("1. ",a)

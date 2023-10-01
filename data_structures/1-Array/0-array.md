@@ -3,8 +3,7 @@
 - A contiguous(unbreaking) memory space, which contains a specific amount of bytes
 
 - memory space is all of the same type
-
-ex a = int[3]
+  - ex a = int[3]
 
 - arrays do not insert, they overwrite. If you were to insert to replace instead of overwrite, you would temporarily expand the memory space to accept the additional value and then contract, but that expansion would potentially expand(and overwrite/reallocate) into another adjacent memory space/buffer being used.
 
