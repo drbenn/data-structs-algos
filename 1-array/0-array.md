@@ -27,3 +27,9 @@
 - Basically, bubble sort works by iterating through array, and if i + 1 is less than i, the two values swithc indexes.
 
 - Another way to think about it is, as you iterate through the array, the largest value of the two values being compared is moved the to highest index.
+
+# Quick Sort
+
+- Divide and conquer
+
+- split array in twine with pivot point. Data is already sorted, so values above pivot have higher value and points below pivot have smaller values. Then keep splitting in half again with new pivot
